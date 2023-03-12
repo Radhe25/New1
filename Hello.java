@@ -1,4 +1,4 @@
 class Hello{
 public static void main(String args[])
 {
-System.oout.println("Hello")}}
+System.out.println("Hello from remote repository")}}
